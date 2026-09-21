@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://visualrunner.com">
-    <img src="../assets/visualrunner-logo.png" alt="VisualRunner" width="120">
+    <img src="../logo-header-mark.png" alt="VisualRunner" width="50">
   </a>
 </p>
 
